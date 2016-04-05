@@ -27,8 +27,8 @@ rss:
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
+  about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -69,9 +69,11 @@ scheme: Pisces
 
 
 # Social links
-# social:
-  #GitHub:
-  #Others:
+social:
+  GitHub: https://github.com/kdplus
+  Weibo: http://weibo.com/maxsn
+  Twitter: https://twitter.com/15058617922
+  Others:
 
 # Social Icons
 social_icons:
@@ -86,7 +88,7 @@ social_icons:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 # default : /images/default_avatar.jpg
-#avatar:
+avatar: /images/avatar.jpg
 
 
 # TOC in the Sidebar
@@ -171,7 +173,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: kdplus
 
 # Baidu Share
 # Available value:
@@ -221,9 +223,9 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: YBLlBAN7tuqc4Jh01Gs7kQPj-gzGzoHsz
+  app_key: LA5jn92cC4W4yj72pbLgqMnS
 
 
 # Tencent analytics ID
