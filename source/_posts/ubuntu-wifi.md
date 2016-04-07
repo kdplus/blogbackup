@@ -1,7 +1,8 @@
 ---
-title: ubuntu-wifi
+title: Ubuntu-Wifi
 date: 2016-04-07 18:41:15
-tags:
+categories: linux
+tags: [linux,wifi]
 ---
 總之我這台華碩和ubuntu的相性的真的非常差，從裝14.04到現在使用的15.10都沒有一次是可以直接解決這個問題的。
 接下來我提供幾個我廠試過的解決方案。
