@@ -88,7 +88,7 @@ social_icons:
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
 # default : /images/default_avatar.jpg
-avatar: /images/avatar.jpg
+avatar: /images/mika.jpg
 
 
 # TOC in the Sidebar

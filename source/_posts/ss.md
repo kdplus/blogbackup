@@ -1,6 +1,7 @@
 ---
 title: Shadowsocks-ubuntu-科學上網
 date: 2016-03-23 16:58:37
+categories: linux
 tags: [ss,ubuntu,linux]
 ---
 ### 羅嗦
