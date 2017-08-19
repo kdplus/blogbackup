@@ -80,3 +80,7 @@ feed:
   path: atom.xml
   limit: 20
   hub:
+
+live2d:
+  model: hijiki
+  bottom: -60
