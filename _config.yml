@@ -73,7 +73,7 @@ deploy:
   branch: master
 
 plugins:
-- hexo-generator-feed
+  hexo-generator-feed
 
 feed:
   type: atom
@@ -84,3 +84,4 @@ feed:
 live2d:
   model: hijiki
   bottom: -60
+
