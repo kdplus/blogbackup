@@ -194,7 +194,7 @@ disqus_shortname: kdplus
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-57103418-1
 
 # CNZZ count
 #cnzz_siteid:
@@ -229,7 +229,7 @@ leancloud_visitors:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+tencent_analytics: 63582478
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: false
