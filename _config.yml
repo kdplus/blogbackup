@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: Chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,7 +81,28 @@ feed:
   limit: 20
   hub:
 
-live2d:
-  model: hijiki
-  bottom: -60
 
+# Comments
+disqus:
+  enable: true
+  shortname: kdplus
+  count: true
+
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: hijiki 
+  display:
+    position: right
+    width: 150
+    height: 300
+  mobile:
+    show: true
+  react:
+    opacity: 0.1
