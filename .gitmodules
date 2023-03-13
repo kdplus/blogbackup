@@ -1,0 +1,3 @@
+[submodule "themes/Chic"]
+	path = themes/Chic
+	url = git@github.com:kdplus/hexo-theme-Chic.git
