@@ -1,15 +1,16 @@
 ---
 title: ウルトラマンオーブ
 date: 2017-08-27 00:33:50
+updated_date: 2023-03-15 15:52:00
 categories: [番]
 tags: [奥特曼, 欧布]
 ---
 
 ## Ultraman Orb
 
-前几天和 ZB 聊起来最近的奥特曼新作捷德，于是被安利了这部欧布奥特曼，才知道这部是奥特曼 50 年的大制作，再加上 ZB 强烈安利，直接把资源拷给了我，那是不得不看了。而实际上在这之前我只看过泰罗奥特曼，迪迦奥特曼，一部分梦比优斯，银河，还有银河传说，可以说不是一个奥特迷，趁这个机会补一补知识。
+{% fullimage /images/ultramanorb.jpg, 欧布, 欧布  %}
 
-{% fullimage https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1503772792241&di=01e25172cb487bd7db62453b7b919251&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft016d1cb49595d121b2.jpg, 欧布, 欧布  %}
+前几天和 ZB 聊起来最近的奥特曼新作捷德，于是被安利了这部欧布奥特曼，才知道这部是奥特曼 50 年的大制作，再加上 ZB 强烈安利，直接把资源拷给了我，那是不得不看了。而实际上在这之前我只看过泰罗奥特曼，迪迦奥特曼，一部分梦比优斯，银河，还有银河传说，可以说不是一个奥特迷，趁这个机会补一补知识。
 
 <!-- more -->
 
@@ -35,9 +36,13 @@ tags: [奥特曼, 欧布]
 
 拍摄方面比方，欧布的第一集迪迦和奥特曼合体的出场的仰拍是在致敬当年迪迦的出场的仰拍等等一系列。
 
-<div style="margin:0 auto; text-align:center"><embed height="420" width="620" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=7761259&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></div>
+{% iframe 
+    <iframe src="//player.bilibili.com/player.html?aid=7761259&bvid=BV1Ds411a7wF&cid=12725222&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe> 
+%}
 
-<div style="margin:0 auto; text-align:center"><embed height="420" width="620" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=9181549&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></div>
+{% iframe
+    <iframe src="//player.bilibili.com/player.html?aid=13397460&bvid=BV1Dx411E78f&cid=21951975&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+%}
 
 有兴趣的，可以看一下这个花絮特辑，mmp 小组辛苦233。其中好多拍摄手法，包括龙卷风的卡，使用把房子倒过来爆破的手法，真的非常用心。
 
