@@ -23,7 +23,7 @@ categories:
 * https://github.com/kdplus/hexo-theme-Chic/commit/69e65f0c2d903160a8cc64cb849d6a73869ab45c
 这个 tag 好像我以前是从 next 主题那边搬过来用的，能让图看着突出一点。
 笨如我还问 ChatGPT 这个 +desktop() 是做什么的，至少 ChatGPT 不会嫌我烦，挺好的。
-```
+```css
 .full-image.full-image.full-image {
   border: none;
   max-width: 100%;
