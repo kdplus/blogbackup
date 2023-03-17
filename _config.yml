@@ -7,8 +7,8 @@ title: 42
 subtitle: 五月蠅い
 description: ほんと、うるさいよ！
 author: kdplus_mika
-language: zh-hk
-timezone: Asia/Shanghai
+language: en 
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -72,8 +72,7 @@ deploy:
   repo: git@github.com:kdplus/kdplus.github.io.git
   branch: master
 
-plugins:
-  hexo-generator-feed
+plugins: [hexo-generator-feed]
 
 feed:
   type: atom

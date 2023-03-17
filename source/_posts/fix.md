@@ -2,8 +2,8 @@
 title: fix
 date: 2023-03-16 02:55:04
 updated_date:
-tags:
-categories:
+categories: [前端, 日常]
+tags: ['Hexo', 'Chic', 'ChatGPT', 'disqus', '主题定制', 'CSS', '图片处理', 'iframe', '健康', '日本']
 ---
 
 {%fi marunouchiline.jpeg, 丸ノ内線 %}

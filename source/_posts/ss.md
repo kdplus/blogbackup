@@ -2,7 +2,7 @@
 title: Shadowsocks-ubuntu-科學上網
 date: 2016-03-23 16:58:37
 categories: linux
-tags: [ss,ubuntu,linux]
+tags: ['ubuntu', 'Shadowsocks', '代理', '配置', '安装', '瀏覽器插件', 'Firefox', 'Chrome', '教程', 'Linux']
 ---
 ### 羅嗦
 * 由於之前的ubuntu的網卡驅動沒有得到結局在加上各種以來問題，導致我拋棄了14.04打算用據說一倍茶的時間來重新安裝ubuntu。
