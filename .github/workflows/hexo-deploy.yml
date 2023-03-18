@@ -12,6 +12,10 @@ jobs:
       with:
         submodules: true # Checkout private submodules(themes or something else).
 
+    # Fix timestamps
+    - name: restore timestamps
+      uses: chetan/git-restore-mtime-action@v2
+
     - name: Set Timezone
       run: |
         sudo timedatectl set-timezone Asia/Tokyo
